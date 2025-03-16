@@ -33,7 +33,7 @@ The Edge hardware connects to "The Edge - Climbing Game" mobile application (ava
 
 ### App Screenshots
 
-![App Screen 1](pics/app/app1.PNG) ![App Screen 2](pics/app/app2.PNG) ![App Screen 3](pics/app/app3.PNG) ![App Screen 4](pics/app/app4.PNG)
+<img src="pics/app/app1.PNG" width="200"/> <img src="pics/app/app2.PNG" width="200"/> <img src="pics/app/app3.PNG" width="200"/> <img src="pics/app/app4.PNG" width="200"/>
 
 ## Getting Started
 
