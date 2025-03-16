@@ -31,6 +31,10 @@ graph LR
 
 The Edge hardware connects to "The Edge - Climbing Game" mobile application (available for iOS and Android), which transforms your climbing training into an interactive gaming experience. The app features real-time strength feedback, a progressive level system, and custom level creation capabilities, allowing you to turn training protocols into engaging challenges.
 
+### App Screenshots
+
+![App Screen 1](pics/app/app1.PNG) ![App Screen 2](pics/app/app2.PNG) ![App Screen 3](pics/app/app3.PNG) ![App Screen 4](pics/app/app4.PNG)
+
 ## Getting Started
 
 1. Follow the [hardware assembly guide](board/README.md) to build the device
