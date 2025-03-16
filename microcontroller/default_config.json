@@ -1,0 +1,10 @@
+{
+    "device_name": "EdgeDevice",
+    "device_type": "weight_sensor",
+    "weight_samples": 1,
+    "weight_scale_factor": 35,
+    "voltage": {
+        "offset": 27524.7,
+        "scale_factor": 106.17
+    }
+}
