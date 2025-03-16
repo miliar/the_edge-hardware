@@ -1,6 +1,5 @@
 # The Edge - Hardware
 
-<img src="pics/logo.png" alt="The Edge Logo" width="200"/>
 
 This repository contains the hardware implementation of The Edge, a BLE-enabled weight sensor designed specifically for climbing training.
 
