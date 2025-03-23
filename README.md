@@ -47,7 +47,18 @@ Check out the app in action:
 
 1. Follow the [hardware assembly guide](board/README.md) to build the device
 2. Set up the [microcontroller firmware](microcontroller/README.md)
-3. Install The Edge - Climbing Game from your device's app store
+3. Install The Edge - Climbing Game from your device's app store:
+
+<div align="center">
+    <div style="display: inline-block; text-align: center; margin: 0 10px;">
+        <p><strong>App Store</strong></p>
+        <img src="pics/apple_appstore.png" alt="App Store QR Code" width="200"/>
+    </div>
+    <div style="display: inline-block; text-align: center; margin: 0 10px;">
+        <p><strong>Play Store</strong></p>
+        <img src="pics/google_playstore.png" alt="Play Store QR Code" width="200"/>
+    </div>
+</div>
 4. Connect the app to your Edge hardware via Bluetooth
 5. Start training!
 
